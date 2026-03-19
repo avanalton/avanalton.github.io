@@ -1,0 +1,6 @@
+Statistics
+----------
+Min Duration          77    12 Jan 2024 22:03:31.866    12 Jan 2024 22:03:41.800             9.934
+Max Duration          89    15 Jan 2024 02:32:42.948    15 Jan 2024 02:45:25.761           762.813
+Mean Duration                                                                              492.012
+Total Duration   
